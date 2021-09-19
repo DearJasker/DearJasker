@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **DearJasker/DearJasker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://avatars.githubusercontent.com/u/59351525?v=4" ><br>
+## 自我介绍 / About Me
+经常不知道应该干神马，做事情做不完整，三分钟热度 :(，还有一大堆各种各样的毛病啦。<br>
+I often don't know what to do. I don't do things completely :(,and there are a lot of all kinds of problems.<br>
+也是一位 Minecraft 黑客。 <br>
+I'm a Minecraft hacker.<br>
+FDPClient !!! <br>
+And --- JaskerFDP<br>
+<img src="https://i.ibb.co/1KdqGsp/AboutME.png" alt="AboutME" border="0"></a>
