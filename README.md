@@ -1,25 +1,4 @@
 # Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=DearJasker&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-<!--
-**DearJasker/DearJasker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://avatars.githubusercontent.com/u/59351525?v=4" ><br>
-## 自我介绍 / About Me
-经常不知道应该干神马，做事情做不完整，三分钟热度 :(，还有一大堆各种各样的毛病啦。<br>
-I often don't know what to do. I don't do things completely :(,and there are a lot of all kinds of problems.<br>
-也是一位 Minecraft 黑客。 <br>
-I'm a Minecraft hacker.<br>
-FDPClient !!! <br>
-And --- JaskerFDP<br>
-<img src="https://i.ibb.co/1KdqGsp/AboutME.png" alt="AboutME" border="0"></a>
+<img src="https://metrics.lecoq.io/DearJasker?template=classic&config.timezone=Asia%2FShanghai" />
